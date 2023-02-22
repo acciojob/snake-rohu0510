@@ -184,7 +184,7 @@ createFood();
 
 
 // Move snake:
-var moveSnakeInterval = setInterval(moveSnake, 100);
+var moveSnakeInterval = setInterval(moveSnake, 1000);
 
 
 // Call change direction function on keyboard key-down event:
